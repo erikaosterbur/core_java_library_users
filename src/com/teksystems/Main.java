@@ -3,6 +3,7 @@ package com.teksystems;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        LibraryInterfaceDemo libraryInterfaceDemo = new LibraryInterfaceDemo();
+        libraryInterfaceDemo.libraryInterfaceDemo();
     }
 }
